@@ -15,4 +15,10 @@
 
 [Lab](d3_scale/movies_scatter.html)
 
+Aula 15
+
+[earthquakes.html](d3_crossfilter_2/earthquakes.html)
+
+
+
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
