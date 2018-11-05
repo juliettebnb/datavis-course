@@ -19,6 +19,13 @@ Aula 15
 
 [earthquakes.html](d3_crossfilter_2/earthquakes.html)
 
+Aula 23
+
+[earthquakes.html](d3_interactive/earthquakes.html)
+
+[usa.html](d3_interactive/usa.html)
+
+
 
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
